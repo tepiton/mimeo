@@ -1,4 +1,4 @@
-# mimeo.lol
+# mimeo
 
 A minimal static website hosted on GitHub Pages.
 
